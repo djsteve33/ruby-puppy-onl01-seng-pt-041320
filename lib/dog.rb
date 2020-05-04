@@ -26,5 +26,9 @@ end
    def self.clear_all
      @@all = []
    end 
+   
+   def name
+     @name
+   end 
   
 end 
