@@ -14,7 +14,8 @@ class Dog
   end 
   
   def print_all
-    @all.each do 
+    @all.each do |dog|
+      
   end 
   
   def save
