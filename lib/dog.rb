@@ -1,2 +1,4 @@
 # Add your code here
-class 
+class Dog 
+  
+end 
